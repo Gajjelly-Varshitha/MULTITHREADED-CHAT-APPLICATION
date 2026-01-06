@@ -27,3 +27,5 @@ Multithreading plays a crucial role in this application by allowing each client 
 The final deliverable of this task is a fully functional chat application consisting of a server program and multiple client programs that can communicate in real time. The application demonstrates core Java concepts such as socket programming, multithreading, client-server architecture, and input/output stream handling. This task serves as a practical implementation of networking concepts and provides a strong foundation for developing more advanced communication-based applications.
 
 ##OUTPUT
+
+<img width="1039" height="308" alt="Image" src="https://github.com/user-attachments/assets/a2b8c35e-913e-487a-8bb5-ab1b7b394ec5" />
